@@ -1,0 +1,85 @@
+	    body{
+	      background: #550000;
+	      margin: 0;
+	      padding: 0;
+	      font-family: helvetica, arial, Sans, "Bit Stream Vera Sans"
+	    }
+      h2{
+        :font-size: 2em;
+      }
+	    #wrapper{
+	      background: #550000;
+	      width: 100%;
+	      text-align: center;
+	      position: relative;
+	      height: 100%
+	    }
+	    .cont-wrap{
+	      background: transparent url(/themes/ansuz_theme_jtk_legal/images/contbg.png) repeat-y scroll 0% 0%;
+	      width: 850px;
+	      margin-left: auto;
+	      margin-right: auto;
+	      position: relative;
+	    }
+	    #footer{
+	      background: #375467;
+	      width: 790px;
+	      margin: 0 auto;
+	    }
+	    .header{
+	      width: 790px;
+	      margin-right: auto;
+	      margin-left: auto;
+	      height: 178px;
+	    }
+	    .main-cont{
+	      text-align: left;
+	      width: 780px;
+	      background: #f2f2f2;
+	      margin: 0 auto;
+	    }
+      .main-cont .page{
+        padding: 10px;
+      }
+	    #navigation{
+	      text-align: left;
+	      width: 270px;
+	      background: #550000;
+	      height: 178px;
+	      float: left;
+        font-size: 1.4em;
+	    }
+	    #navigation ul{
+	      list-style-type: none;
+	      margin: 0;
+	      padding: 5px 0 0 0;
+	    }
+	    #navigation ul li{
+	      
+	    }
+      #navigation h3{
+        display: none;
+      }
+	    #navigation ul li a{
+	      color: white;
+	      display: block;
+	      width: 100%;
+	      text-decoration: none;
+	      padding: 2px 8px;
+	    }
+	    #navigation ul li a:hover, #navigation ul li.active a{
+	      background: #3a0000;
+	    }
+	    .head-image{
+	      background: url(/themes/ansuz_theme_jtk_legal/images/logo.png);
+	      float: left;
+	      width: 520px;
+	      height: 178px;
+	    }
+	    .bottom-image{
+	      margin: 0 auto;
+	      width: 850px;
+	    }
+	    .clear{
+	      clear: both;
+	    }
