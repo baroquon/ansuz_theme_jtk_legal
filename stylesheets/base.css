@@ -83,7 +83,12 @@
 	    .bottom-image{
 	      margin: 0 auto;
 	      width: 850px;
+        background:#550000 none repeat scroll 0 0;
 	    }
 	    .clear{
 	      clear: both;
 	    }
+
+strong{
+  font-weight: 600;
+}
